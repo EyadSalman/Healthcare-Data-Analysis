@@ -4,7 +4,7 @@ This project focuses on predicting disease outcomes by analyzing patient informa
 
 Key Highlights:
 
-Data Scraping: Extracting relevant healthcare data using BeautifulSoup from online medical sources
+Data Scraping: Extracting relevant healthcare data using BeautifulSoup, Selenium and requests from online medical sources. 
 
 Data Preprocessing: Cleaning, feature extraction, and transformation
 
